@@ -10,3 +10,5 @@
 
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
  <img alt="Finn Lippok's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=FinnPL&bg_color=1F222E&color=1F6FEB&line=1F6FEB&point=FFFFFF&hide_border=true"width="845"/></a>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,cs,dotnet,visualstudio,vscode,azure,powershell,bash,linux,docker,mysql,git,raspberrypi,arduino,postman,idea)](https://skillicons.dev)
